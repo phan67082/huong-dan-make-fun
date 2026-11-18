@@ -91,6 +91,11 @@ Trading, Forecasting, Growth. Mỗi thẻ kèo cho thấy giải thưởng. Tran
 Đọc luật trước khi làm. Vài kèo cần thêm phần mềm hoặc tài khoản ở nơi khác, và trang kèo nói rõ điều đó
 ngay từ đầu. Mẹo nhỏ: kèo sắp hết hạn thường ít người chen vào hơn, nhưng cũng ít thời gian để sửa bài.
 
+> **Mẹo quan trọng:** trước khi làm, kiểm tra xem kèo cho nộp tối đa bao nhiêu bài. Mỗi tài khoản chỉ có
+> vài lượt nộp cho mỗi kèo (không phải con số công bố chung chung đâu), nên đừng để bài tốt nhất của bạn
+> không còn lượt nộp. Hãy làm kỹ, tự chấm xem bài mình đứng khoảng hạng mấy rồi mới dùng lượt nộp — và luôn
+> giữ lại lượt cuối cho bản tốt nhất.
+
 ## 5. Lấy kit của kèo
 
 Mỗi kèo có một kit: luật chơi, dữ liệu (nếu có), bài mẫu (nếu có) và công cụ dòng lệnh `makefun`. Lấy kit
